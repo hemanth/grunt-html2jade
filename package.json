@@ -1,7 +1,7 @@
 {
   "name": "grunt-html2jade",
   "description": "Convert HTML to JADE.",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "homepage": "https://github.com/hemanth/grunt-html2jade",
   "author": {
     "name": "hemanth.hm",
