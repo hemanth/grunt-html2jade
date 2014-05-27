@@ -1,0 +1,45 @@
+{
+  "name": "grunt-html2jade",
+  "description": "Convert HTML to JADE.",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hemanth/grunt-html2jade",
+  "author": {
+    "name": "hemanth.hm",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hemanth/grunt-html2jade.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hemanth/grunt-html2jade/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/hemanth/grunt-html2jade/blob/master/LICENSE-MIT"
+    }
+  ],
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "^0.9.2",
+    "grunt-contrib-clean": "^0.5.0",
+    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt": "~0.4.5"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.5"
+  },
+  "keywords": [
+    "gruntplugin"
+  ],
+  "dependencies": {
+    "html2jade": "^0.7.1"
+  }
+}
