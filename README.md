@@ -1,5 +1,4 @@
-# grunt-[html2jade](https://github.com/donpark/html2jade)
-
+# grunt-[html2jade](https://github.com/donpark/html2jade) [ ![build-status](https://travis-ci.org/hemanth/grunt-html2jade.svg?branch=master) ](https://travis-ci.org/hemanth/grunt-html2jade)
 > Convert HTML to JADE.
 
 
