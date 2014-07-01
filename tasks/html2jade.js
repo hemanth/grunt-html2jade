@@ -16,7 +16,7 @@ module.exports = function(grunt) {
     var options = this.options({
         double:true,
         numeric:false,
-        scalate:true,
+        scalate:false,
         nspaces:2,
         tabs:false,
         donotencode:false,

@@ -38,7 +38,7 @@ grunt.initConfig({
 {
         double:true,
         numeric:false,
-        scalate:true,
+        scalate:false,
         nspaces:2,
         tabs:false,
         donotencode:false,
