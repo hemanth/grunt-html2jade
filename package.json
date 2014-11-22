@@ -28,9 +28,9 @@
     "test": "grunt test"
   },
   "devDependencies": {
-    "grunt-contrib-jshint": "^0.9.2",
-    "grunt-contrib-clean": "^0.5.0",
-    "grunt-contrib-nodeunit": "^0.3.3",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-nodeunit": "^0.4.1",
     "grunt": "~0.4.5"
   },
   "peerDependencies": {
@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "html2jade": "^0.7.1"
+    "html2jade": "^0.8.1"
   }
 }
