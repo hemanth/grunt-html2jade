@@ -40,6 +40,6 @@
     "gruntplugin"
   ],
   "dependencies": {
-    "html2jade": "^0.8.1"
+    "html2jade": "^0.8.6"
   }
 }
